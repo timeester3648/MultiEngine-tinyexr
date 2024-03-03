@@ -1,2 +1,8 @@
 output.exr
 test_tinyexr
+
+# exclude project files
+**.sln
+**.vcxproj
+**.vcxproj.user
+**.vcxproj.filters
