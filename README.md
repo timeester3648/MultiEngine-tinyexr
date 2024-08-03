@@ -37,6 +37,7 @@ Current status of `tinyexr` is:
     - [x] Save multi-part image
     - [ ] Load multi-part deep image
     - [ ] Save multi-part deep image
+  - [ ] deepscanline 
 - OpenEXR v2 deep image
   - [x] Loading scanline + ZIPS + HALF or FLOAT pixel type.
 - Compression
