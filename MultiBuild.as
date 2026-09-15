@@ -4,6 +4,7 @@ void main(MultiBuild::Workspace& workspace) {
 
 	project.name("tinyexr");
 	properties.binary_object_kind(MultiBuild::BinaryObjectKind::eStaticLib);
+	project.license("./LICENSE");
 
 	properties.project_includes({
 		"zlib"
